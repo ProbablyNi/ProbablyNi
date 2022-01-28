@@ -7,7 +7,7 @@
 ### 📰 Next Knowledge/Project
 - Javascript
 ### 📫 How to reach me:
-* [Discord](https://discords.com/bio/p/ni26)
+* <a href="https://discords.com/bio/p/ni26" target="_blank">Discord</a>
 
 <hr />
 
