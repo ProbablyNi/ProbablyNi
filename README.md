@@ -1,6 +1,6 @@
 ### yoo just a random teenager here
 
-### i’m currently working on Random HTML and CSS Projects to expand my knowledge
+### i’m currently working on expanding my knowledge
 ### i’m currently learning c++
 ### next knowledge/project python
 
