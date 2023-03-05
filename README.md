@@ -1,11 +1,8 @@
-### Hello there, i'm ni 👋
+### yoo just a random teenager here
 
-### 🔭 I’m currently working on
-- Random HTML and CSS Projects to expand my knowledge
-### 🌱 I’m currently learning
-- HTML & CSS
-### 📰 Next Knowledge/Project
-- Javascript
+### i’m currently working on Random HTML and CSS Projects to expand my knowledge
+### i’m currently learning c++
+### next knowledge/project python
 
 <hr />
 
