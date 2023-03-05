@@ -1,4 +1,4 @@
-### yoo just a random teenager here
+### yoo just a random guy
 
 ### i’m currently working on expanding my knowledge
 ### i’m currently learning c++
