@@ -1,8 +1,8 @@
 ### yoo just a random guy
 
 ### i’m currently working on expanding my knowledge
-### i’m currently learning c++
-### next knowledge/project python
+### i’m currently learning web development
+### next knowledge/project ion know
 
 <hr />
 
